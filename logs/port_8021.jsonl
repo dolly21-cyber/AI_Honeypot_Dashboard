@@ -1,3 +1,0 @@
-{"timestamp": "2025-12-17T07:25:35.369880Z", "remote_ip": "127.0.0.1", "port": 8021, "input": "cd /var/log", "output": "Changed directory to /var/log"}
-{"timestamp": "2025-12-17T07:30:01.548394Z", "remote_ip": "127.0.0.1", "port": 8021, "input": "whoami", "output": "guest"}
-{"timestamp": "2025-12-17T07:30:15.310524Z", "remote_ip": "127.0.0.1", "port": 8021, "input": "GET /index.html", "output": "bash: GET /index.html: command not found"}

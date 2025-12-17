@@ -1,2 +1,0 @@
-{"timestamp": "2025-12-17T07:25:38.120833Z", "remote_ip": "127.0.0.1", "port": 8080, "input": "ls /home", "output": "bash: ls /home: command not found"}
-{"timestamp": "2025-12-17T07:29:58.163871Z", "remote_ip": "127.0.0.1", "port": 8080, "input": "uname -a", "output": "bash: uname -a: command not found"}
