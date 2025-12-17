@@ -1,0 +1,15 @@
+{
+  "bind_ip": "127.0.0.1",
+  "ports": {
+     "2222": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.1",
+    "8021": "220 FTP server ready",
+    "8080": "HTTP/1.1 200 OK\\r\\nServer: Apache/2.4.41 (Ubuntu)\\r\\n\\r\\n"
+  },
+  "log_dir": "logs",
+  "use_ai": true,
+  "ai": {
+    "ollama_url": "http://localhost:11434", 
+    "ollama_model": "llama3", 
+    "openai_model": "gpt-4o-mini"
+  }
+}

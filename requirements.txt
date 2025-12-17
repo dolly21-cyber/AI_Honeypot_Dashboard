@@ -1,0 +1,11 @@
+# core
+requests
+streamlit
+pandas
+matplotlib
+
+# optional (OpenAI official client)
+openai
+
+# optional (for IP geolocation if needed later)
+# ipinfo  # uncomment if you use it
